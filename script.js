@@ -28,7 +28,7 @@ left.addEventListener('click', function() {
 
 });
 // rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice 
-rw2.addEventListener('click', function() {
+rw2.addEventListener('dblclick', function() {
    leftRight.style.display="none;"
    left.style.display="none";
     right.style.display="none";
