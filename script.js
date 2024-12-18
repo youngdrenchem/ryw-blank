@@ -24,7 +24,7 @@ left.addEventListener('click', function() {
     right.style.display="none";
     rw2.style.display="block";
 
-        text.innerHTML ="to throw to jeremiah click, to handoff to evan use wheel"
+        text.innerHTML ="to throw to jeremiah  douuble click, to handoff to evan use wheel"
 
 });
 // rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice rw2 right choice 
