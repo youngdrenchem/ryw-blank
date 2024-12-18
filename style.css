@@ -1,24 +1,32 @@
-.img{
+img{
+     display: flex;
     width:400px;
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
-    border-width:16px ;
-    border-style: groove;
-    border-color: #1e7527ff;
+    border-width: 30px;
+    border-color: #1e7527ff; 
+    border-style: double;
+    justify-content: center;
+   
 }
 
 body{background-color: #3256a8ff;
-    border: #9a9797ff;
+    
 }
-  
-.button {display: flex; justify-content: center;} 
 
-.text {display: flex; justify-content: center; font-family: Courier, monospace;}
+.button {display: flex;
+    justify-content: center;
+    
+     border-width: 10px;
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
 }
+ 
+
+.text {
+    display: flex; 
+    justify-content: center;
+    
+    font-family: Courier, monospace;
+}
+    
